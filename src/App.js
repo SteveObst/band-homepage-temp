@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="SoulAffairLogo.jpg" className="logo" alt="logo" />
+        <img src="SoulAffairLogo-Web.jpg" className="logo" alt="logo" />
         <p>
           Coming soon...
         </p>
